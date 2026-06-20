@@ -15,6 +15,7 @@ Grupo: Juan Sartori Alticimo
 ## Como rodar
 
 Certifique-se de ter o Java instalado, depois execute o projeto pelo IntelliJ. 
+
 Ou execute na raiz do projeto pelo CMD (Prompt de Comando):
 
 ```bash
